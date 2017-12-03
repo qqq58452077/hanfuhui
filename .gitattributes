@@ -1,3 +1,1 @@
-*.py linguist-language = Python
-*.pyc linguist-language = Python
 *.html linguist-language = Python
